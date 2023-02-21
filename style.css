@@ -3,13 +3,13 @@ body {
   justify-content: space-around;
   align-items: center;
   text-align: center;
-  background: #00ecb9;
+  background: #0e1630;
   font-family: sans-serif;
   font-weight: 100;
 }
 
 h1 {
-  color: #396;
+  color: rgb(153, 51, 134);
   font-weight: 100;
   font-size: 40px;
   margin: 30px;
@@ -30,7 +30,7 @@ h1 {
 .clockdiv > div {
   padding: 15px;
   border-radius: 3px;
-  background: #00bf96;
+  background: #ef4782;
   margin: 10px;
 }
 
@@ -38,7 +38,7 @@ h1 {
   padding: 15px;
   font-size: 22px;
   border-radius: 3px;
-  background: #00816a;
+  background: #810050;
   display: inline-flex;
   align-items: center;
   justify-content: center;
