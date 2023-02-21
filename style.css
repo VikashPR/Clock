@@ -1,4 +1,7 @@
 body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   text-align: center;
   background: #00ecb9;
   font-family: sans-serif;
