@@ -9,11 +9,6 @@ body {
   height: 100vh;
   width: 100vw;
 }
-@media screen and (min-width: 600px) {
-  body {
-    flex-direction: column;
-  }
-}
 h1 {
   color: rgb(153, 51, 134);
   font-weight: 100;
